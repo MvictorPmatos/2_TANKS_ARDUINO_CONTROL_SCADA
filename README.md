@@ -1,4 +1,4 @@
-# Sistema de Automação e Supervisão de Dois Tanques – Arduino + SCADA
+# Sistema de Automação e Supervisão de Dois Tanques – Arduino
 
 Este repositório contém os códigos-fonte utilizados no desenvolvimento de um sistema de automação e supervisão aplicado a uma planta didática composta por dois tanques, como parte do Trabalho de Conclusão de Curso (TCC) dos alunos Victor Matos e Gerardo Teixeira.
 
